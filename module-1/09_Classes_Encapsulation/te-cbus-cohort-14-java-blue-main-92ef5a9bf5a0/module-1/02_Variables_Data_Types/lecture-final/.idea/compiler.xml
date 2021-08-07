@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="m01d03-expressions-and-control-flow-instructor" />
+        <module name="m01d08-collections-part-2-tutorial" />
+        <module name="m01d09-oop-with-encapsulation-lecture-final" />
+        <module name="m01d05-command-line-programs-instructor" />
+        <module name="m01d08-collections-part2-instructor" />
+        <module name="m01d06-introduction-to-objects-instructor" />
+        <module name="m01d04-loops-and-arrays-instructor" />
+        <module name="m01d07-collections-part1-instructor" />
+        <module name="m01d08-collections-part2-lecture-final" />
+        <module name="m01d09-oop-with-encapsulation-instructor" />
+        <module name="m01d04-loops-and-arrays-lecture-final" />
+        <module name="m01d06-introduction-to-objects-lecture-final" />
+        <module name="algorithm-complexity-lecture" />
+        <module name="m01d02-variables-and-datatypes-lecture-final" />
+        <module name="m01d07-collections-part1-lecture-final" />
+        <module name="m01d05-command-line-programs-lecture-final" />
+        <module name="m01d02-variables-and-datatypes-instructor" />
+        <module name="m01d03-expressions-and-control-flow-lecture-final" />
+        <module name="m01d10-week2-review-final" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="algorithm-complexity-lecture" target="1.8" />
+      <module name="m01d02-variables-and-datatypes-instructor" target="11" />
+      <module name="m01d02-variables-and-datatypes-lecture-final" target="11" />
+      <module name="m01d03-expressions-and-control-flow-instructor" target="11" />
+      <module name="m01d03-expressions-and-control-flow-lecture-final" target="11" />
+      <module name="m01d04-loops-and-arrays-instructor" target="11" />
+      <module name="m01d04-loops-and-arrays-lecture-final" target="11" />
+      <module name="m01d05-command-line-programs-instructor" target="11" />
+      <module name="m01d05-command-line-programs-lecture-final" target="11" />
+      <module name="m01d06-introduction-to-objects-instructor" target="11" />
+      <module name="m01d06-introduction-to-objects-lecture-final" target="11" />
+      <module name="m01d07-collections-part1-instructor" target="11" />
+      <module name="m01d07-collections-part1-lecture-final" target="11" />
+      <module name="m01d08-collections-part-2-tutorial" target="11" />
+      <module name="m01d08-collections-part2-instructor" target="11" />
+      <module name="m01d08-collections-part2-lecture-final" target="11" />
+      <module name="m01d09-oop-with-encapsulation-instructor" target="11" />
+      <module name="m01d09-oop-with-encapsulation-lecture-final" target="11" />
+      <module name="m01d10-week2-review-final" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

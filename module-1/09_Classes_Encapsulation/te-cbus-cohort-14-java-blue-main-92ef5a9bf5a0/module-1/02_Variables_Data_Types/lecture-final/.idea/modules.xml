@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../08_Collections_Part_2/lecture-final/algorithm_complexity/algorithm-complexity-lecture.iml" filepath="$PROJECT_DIR$/../../08_Collections_Part_2/lecture-final/algorithm_complexity/algorithm-complexity-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../instructor/m01d02-variables-and-datatypes-instructor.iml" filepath="$PROJECT_DIR$/../instructor/m01d02-variables-and-datatypes-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m01d02-variables-and-datatypes-lecture-final.iml" filepath="$PROJECT_DIR$/m01d02-variables-and-datatypes-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../03_Expressions/instructor/m01d03-expressions-and-control-flow-instructor.iml" filepath="$PROJECT_DIR$/../../03_Expressions/instructor/m01d03-expressions-and-control-flow-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../03_Expressions/lecture-final/m01d03-expressions-and-control-flow-lecture-final.iml" filepath="$PROJECT_DIR$/../../03_Expressions/lecture-final/m01d03-expressions-and-control-flow-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../04_Loops_Arrays/instructor/m01d04-loops-and-arrays-instructor.iml" filepath="$PROJECT_DIR$/../../04_Loops_Arrays/instructor/m01d04-loops-and-arrays-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../04_Loops_Arrays/lecture-final/m01d04-loops-and-arrays-lecture-final.iml" filepath="$PROJECT_DIR$/../../04_Loops_Arrays/lecture-final/m01d04-loops-and-arrays-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../05_Command_Line_Programs/instructor/m01d05-command-line-programs-instructor.iml" filepath="$PROJECT_DIR$/../../05_Command_Line_Programs/instructor/m01d05-command-line-programs-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../05_Command_Line_Programs/lecture-final/m01d05-command-line-programs-lecture-final.iml" filepath="$PROJECT_DIR$/../../05_Command_Line_Programs/lecture-final/m01d05-command-line-programs-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../06_Introduction_Objects_Strings/instructor/m01d06-introduction-to-objects-instructor.iml" filepath="$PROJECT_DIR$/../../06_Introduction_Objects_Strings/instructor/m01d06-introduction-to-objects-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../06_Introduction_Objects_Strings/lecture-final/m01d06-introduction-to-objects-lecture-final.iml" filepath="$PROJECT_DIR$/../../06_Introduction_Objects_Strings/lecture-final/m01d06-introduction-to-objects-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../07_Collections_Part_1/instructor/m01d07-collections-part1-instructor.iml" filepath="$PROJECT_DIR$/../../07_Collections_Part_1/instructor/m01d07-collections-part1-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../07_Collections_Part_1/lecture-final/m01d07-collections-part1-lecture-final.iml" filepath="$PROJECT_DIR$/../../07_Collections_Part_1/lecture-final/m01d07-collections-part1-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../08_Collections_Part_2/tutorial-student/m01d08-collections-part-2-tutorial.iml" filepath="$PROJECT_DIR$/../../08_Collections_Part_2/tutorial-student/m01d08-collections-part-2-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../08_Collections_Part_2/instructor/m01d08-collections-part2-instructor.iml" filepath="$PROJECT_DIR$/../../08_Collections_Part_2/instructor/m01d08-collections-part2-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../08_Collections_Part_2/lecture-final/sets_and_maps/m01d08-collections-part2-lecture-final.iml" filepath="$PROJECT_DIR$/../../08_Collections_Part_2/lecture-final/sets_and_maps/m01d08-collections-part2-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../09_Classes_Encapsulation/instructor/m01d09-oop-with-encapsulation-instructor.iml" filepath="$PROJECT_DIR$/../../09_Classes_Encapsulation/instructor/m01d09-oop-with-encapsulation-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../09_Classes_Encapsulation/lecture-final/m01d09-oop-with-encapsulation-lecture-final.iml" filepath="$PROJECT_DIR$/../../09_Classes_Encapsulation/lecture-final/m01d09-oop-with-encapsulation-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../10_Week2_Review/lecture-final/m01d10-week2-review-final.iml" filepath="$PROJECT_DIR$/../../10_Week2_Review/lecture-final/m01d10-week2-review-final.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="m01d04-loops-and-arrays-exercise" />
+        <module name="m01d02-variables-and-datatypes-exercises" />
+        <module name="m01d05-command-line-programs-exercises-pair" />
+        <module name="m01d05-command-line-programs-lecture" />
+        <module name="m01d03-expressions-and-control-flow-lecture" />
+        <module name="m01d03-expressions-and-control-flow-exercises" />
+        <module name="m01d04-loops-and-arrays-lecture" />
+        <module name="m01d02-variables-and-datatypes-lecture" />
+        <module name="m01d05-command-line-programs-exercise" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="m01d02-variables-and-datatypes-exercises" target="11" />
+      <module name="m01d02-variables-and-datatypes-lecture" target="11" />
+      <module name="m01d03-expressions-and-control-flow-exercises" target="11" />
+      <module name="m01d03-expressions-and-control-flow-lecture" target="11" />
+      <module name="m01d04-loops-and-arrays-exercise" target="11" />
+      <module name="m01d04-loops-and-arrays-lecture" target="11" />
+      <module name="m01d05-command-line-programs-exercise" target="11" />
+      <module name="m01d05-command-line-programs-exercises-pair" target="11" />
+      <module name="m01d05-command-line-programs-lecture" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

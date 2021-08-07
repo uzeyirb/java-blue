@@ -1,0 +1,38 @@
+div#one {
+    background-color: red;
+    width:100px;
+    height: 100px; 
+    /* padding: 20px;
+    border-style: solid;
+    border-color: black;
+    border-width: 20px; 
+    
+    display: block; */
+    margin: 60px;
+    position: relative;
+    position: right;
+}
+div#two {
+    background-color: grey;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 50px;
+    margin: 60px; 
+    /* display: inline; */
+}
+
+div#three {
+    background-color: blue;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 50px;
+     margin: 60px; 
+    /* display: inline; */
+}
+
+
+/* * {
+    box-sizing: border-box;
+} */

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f912e82-cfee-460b-84f8-3e873a8c1370" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sOYLmsFtc3fOqWtPAXWz0q8rSn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../java-blue-week06-pair-exercises/07-08-DAO_and_Integration_testing_exercise-pair" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Application.UserManagerCli">
+    <configuration name="UserManagerCli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.UserManagerCli" />
+      <module name="m02d09-data-security-lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcContactDAOIntegrationTest.delete_contact" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02d08-integration-testing-lecture-final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.addressbook.JdbcContactDAOIntegrationTest" />
+      <option name="METHOD_NAME" value="delete_contact" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcContactDAOIntegrationTest.insert_contact" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02d08-integration-testing-lecture-final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.addressbook.JdbcContactDAOIntegrationTest" />
+      <option name="METHOD_NAME" value="insert_contact" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcContactDAOIntegrationTest.update_contact" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02d08-integration-testing-lecture-final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.addressbook.JdbcContactDAOIntegrationTest" />
+      <option name="METHOD_NAME" value="update_contact" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcPhoneDAOIntegrationTest.retrieve_phone_by_contact" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02d08-integration-testing-lecture-final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.addressbook.JdbcPhoneDAOIntegrationTest" />
+      <option name="METHOD_NAME" value="retrieve_phone_by_contact" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserManagerCli" />
+        <item itemvalue="JUnit.JdbcPhoneDAOIntegrationTest.retrieve_phone_by_contact" />
+        <item itemvalue="JUnit.JdbcContactDAOIntegrationTest.delete_contact" />
+        <item itemvalue="JUnit.JdbcContactDAOIntegrationTest.update_contact" />
+        <item itemvalue="JUnit.JdbcContactDAOIntegrationTest.insert_contact" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f912e82-cfee-460b-84f8-3e873a8c1370" name="Default Changelist" comment="" />
+      <created>1620745052233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620745052233</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../11_Inheritance/lecture-final/src/main/java/com/techelevator/animals/AnimalSoundsApp.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../14_Unit_Testing/lecture-final/src/main/java/com/techelevator/trees/FruitTree.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../16_FileIO_Reading_in/lecture-final/src/main/java/com/techelevator/scanner/FileReadingExample.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../module-2/07_Database_Connectivity_DAO/lecture-final/src/main/java/com/techelevator/dao/DAOExample.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../module-2/08_Integration_Testing/lecture-final/src/test/java/com/techelevator/city/JDBCCityDAOIntegrationTest.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../module-2/09_Data_Security/lecture-final/data-security-lecture/src/main/java/com/techelevator/model/JdbcUserDao.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/../../14_Unit_Testing/lecture-final/src/main/java/com/techelevator/animals/Dog.java</url>
+          <line>7</line>
+          <properties field="breed" class="com.techelevator.animals.Dog" />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="x" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/m01d15_week3_review_final$All_in_m01d14_unit_testing_lecture_final.ic" NAME="All in m01d14-unit-testing-lecture-final Coverage Results" MODIFIED="1622208691251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/m01d15_week3_review_final$FruitTreeTest.ic" NAME="FruitTreeTest Coverage Results" MODIFIED="1622208991854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.trees.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/m01d15_week3_review_final$ExerciseProblemsTest.ic" NAME="ExerciseProblemsTest Coverage Results" MODIFIED="1622207424664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+  </component>
+</project>

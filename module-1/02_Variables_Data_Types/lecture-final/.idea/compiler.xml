@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="m02d09-data-security-lecture" />
+        <module name="encryption-lecture-final" />
+        <module name="m02d08-integration-testing-lecture-final" />
+        <module name="m02d07-dao-lecture-final" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="algorithm-complexity-lecture" target="1.8" />
+      <module name="encryption-lecture-final" target="1.8" />
+      <module name="m01d02-variables-and-datatypes-instructor" target="11" />
+      <module name="m01d02-variables-and-datatypes-lecture-final" target="11" />
+      <module name="m01d03-expressions-and-control-flow-instructor" target="11" />
+      <module name="m01d03-expressions-and-control-flow-lecture-final" target="11" />
+      <module name="m01d04-loops-and-arrays-instructor" target="11" />
+      <module name="m01d04-loops-and-arrays-lecture-final" target="11" />
+      <module name="m01d05-command-line-programs-instructor" target="11" />
+      <module name="m01d05-command-line-programs-lecture-final" target="11" />
+      <module name="m01d06-introduction-to-objects-instructor" target="11" />
+      <module name="m01d06-introduction-to-objects-lecture-final" target="11" />
+      <module name="m01d07-collections-part1-instructor" target="11" />
+      <module name="m01d07-collections-part1-lecture-final" target="11" />
+      <module name="m01d08-collections-part-2-tutorial" target="11" />
+      <module name="m01d08-collections-part2-instructor" target="11" />
+      <module name="m01d08-collections-part2-lecture-final" target="11" />
+      <module name="m01d09-oop-with-encapsulation-instructor" target="11" />
+      <module name="m01d09-oop-with-encapsulation-lecture-final" target="11" />
+      <module name="m01d10-week2-review-final" target="11" />
+      <module name="m01d11-inheritance-lecture-final" target="11" />
+      <module name="m01d12-polymorphism-lecture-final" target="11" />
+      <module name="m01d13-inheritance-part2-lecture-final" target="11" />
+      <module name="m01d14-unit-testing-instructor" target="11" />
+      <module name="m01d14-unit-testing-lecture-final" target="11" />
+      <module name="m01d15-week3-review-final" target="11" />
+      <module name="m01d16-file-io-part1-exercise" target="11" />
+      <module name="m01d16-file-io-part1-lecture-final" target="11" />
+      <module name="m01d17-file-io-part2-lecture-final" target="11" />
+      <module name="m02d07-dao-exercises-pair" target="1.5" />
+      <module name="m02d07-dao-lecture-final" target="11" />
+      <module name="m02d08-integration-testing-lecture-final" target="11" />
+      <module name="m02d09-data-security-lecture" target="11" />
+      <module name="m1-java-capstone-catering-system" target="11" />
+      <module name="Module-1-Coding-Assessment" target="1.8" />
+      <module name="projectname" target="11" />
+      <module name="Tickets" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

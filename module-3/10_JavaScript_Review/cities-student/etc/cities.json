@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Adahshire",
+    "countrycode": "USA",
+    "district": "New Mexico",
+    "population": 76663
+  },
+  {
+    "id": "2",
+    "name": "Fontana",
+    "countrycode": "USA",
+    "district": "South Carolina",
+    "population": 52274
+  },
+  {
+    "id": "3",
+    "name": "Lake Aida",
+    "countrycode": "USA",
+    "district": "New Mexico",
+    "population": 81966
+  },
+  {
+    "id": "4",
+    "name": "Bruceburgh",
+    "countrycode": "USA",
+    "district": "Ohio",
+    "population": 70868
+  },
+  {
+    "id": "5",
+    "name": "New Leone",
+    "countrycode": "USA",
+    "district": "Virginia",
+    "population": 38136
+  },
+  {
+    "id": "6",
+    "name": "South Abbey",
+    "countrycode": "USA",
+    "district": "Rhode Island",
+    "population": 77729
+  },
+  {
+    "id": "7",
+    "name": "Chula Vista",
+    "countrycode": "USA",
+    "district": "Michigan",
+    "population": 55676
+  },
+  {
+    "id": "8",
+    "name": "Kassulkeshire",
+    "countrycode": "USA",
+    "district": "Arizona",
+    "population": 6569
+  },
+  {
+    "id": "9",
+    "name": "Kertzmanntown",
+    "countrycode": "USA",
+    "district": "Georgia",
+    "population": 97663
+  },
+  {
+    "id": "10",
+    "name": "Asaberg",
+    "countrycode": "USA",
+    "district": "California",
+    "population": 57210
+  }
+]

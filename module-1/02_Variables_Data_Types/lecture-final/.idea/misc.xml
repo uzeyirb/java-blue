@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../../module-2/07_Database_Connectivity_DAO/lecture-final/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../module-2/08_Integration_Testing/lecture-final/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../module-2/09_Data_Security/lecture-final/data-security-lecture/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../module-2/09_Data_Security/lecture-final/encryption-lecture/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

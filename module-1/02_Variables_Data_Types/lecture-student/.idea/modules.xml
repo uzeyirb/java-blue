@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../exercise-student/m01d02-variables-and-datatypes-exercises.iml" filepath="$PROJECT_DIR$/../exercise-student/m01d02-variables-and-datatypes-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m01d02-variables-and-datatypes-lecture.iml" filepath="$PROJECT_DIR$/m01d02-variables-and-datatypes-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../03_Expressions/exercise-student/m01d03-expressions-and-control-flow-exercises.iml" filepath="$PROJECT_DIR$/../../03_Expressions/exercise-student/m01d03-expressions-and-control-flow-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../03_Expressions/lecture-student/m01d03-expressions-and-control-flow-lecture.iml" filepath="$PROJECT_DIR$/../../03_Expressions/lecture-student/m01d03-expressions-and-control-flow-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../04_Loops_Arrays/exercise-student/m01d04-loops-and-arrays-exercise.iml" filepath="$PROJECT_DIR$/../../04_Loops_Arrays/exercise-student/m01d04-loops-and-arrays-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../04_Loops_Arrays/lecture-student/m01d04-loops-and-arrays-lecture.iml" filepath="$PROJECT_DIR$/../../04_Loops_Arrays/lecture-student/m01d04-loops-and-arrays-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../05_Command_Line_Programs/exercise-student/m01d05-command-line-programs-exercise.iml" filepath="$PROJECT_DIR$/../../05_Command_Line_Programs/exercise-student/m01d05-command-line-programs-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../team8-java-blue-week01-pair-exercises-uzeyir/05_Command_Line_Programs/m01d05-command-line-programs-exercises-pair.iml" filepath="$PROJECT_DIR$/../../../../team8-java-blue-week01-pair-exercises-uzeyir/05_Command_Line_Programs/m01d05-command-line-programs-exercises-pair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../05_Command_Line_Programs/lecture-student/m01d05-command-line-programs-lecture.iml" filepath="$PROJECT_DIR$/../../05_Command_Line_Programs/lecture-student/m01d05-command-line-programs-lecture.iml" />
+    </modules>
+  </component>
+</project>

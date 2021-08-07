@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../instructor/m02d11-http-web-services-GET-instructor.iml" filepath="$PROJECT_DIR$/../instructor/m02d11-http-web-services-GET-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m02d11-http-web-services-GET-lecture-final.iml" filepath="$PROJECT_DIR$/m02d11-http-web-services-GET-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../12_HTTP_Web_Services_POST/instructor/m02d12-http-web-services-POST-instructor.iml" filepath="$PROJECT_DIR$/../../12_HTTP_Web_Services_POST/instructor/m02d12-http-web-services-POST-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../12_HTTP_Web_Services_POST/lecture-final/m02d12-http-web-services-POST-lecture-final.iml" filepath="$PROJECT_DIR$/../../12_HTTP_Web_Services_POST/lecture-final/m02d12-http-web-services-POST-lecture-final.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/../../03_Expressions/lecture-final/pom.xml" />
+        <option value="$PROJECT_DIR$/../../03_Expressions/instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/../../04_Loops_Arrays/lecture-final/pom.xml" />
+        <option value="$PROJECT_DIR$/../../04_Loops_Arrays/instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/../../05_Command_Line_Programs/lecture-final/pom.xml" />
+        <option value="$PROJECT_DIR$/../../05_Command_Line_Programs/instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/../../06_Introduction_Objects_Strings/lecture-final/pom.xml" />
+        <option value="$PROJECT_DIR$/../../06_Introduction_Objects_Strings/instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/../../07_Collections_Part_1/lecture-final/pom.xml" />
+        <option value="$PROJECT_DIR$/../../07_Collections_Part_1/instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/../../08_Collections_Part_2/lecture-final/sets_and_maps/pom.xml" />
+        <option value="$PROJECT_DIR$/../../08_Collections_Part_2/lecture-final/algorithm_complexity/pom.xml" />
+        <option value="$PROJECT_DIR$/../../08_Collections_Part_2/instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/../../08_Collections_Part_2/tutorial-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../../09_Classes_Encapsulation/lecture-final/pom.xml" />
+        <option value="$PROJECT_DIR$/../../09_Classes_Encapsulation/instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/../../10_Week2_Review/lecture-final/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
